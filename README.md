@@ -1,7 +1,3 @@
-Sure, here's a sample GitHub project description for a Java-based school and football team management system:
-
----
-
 # School and Football Team Management System
 
 ## Overview
