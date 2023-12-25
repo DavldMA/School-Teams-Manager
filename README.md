@@ -19,7 +19,7 @@ This Java-based project is a terminal-based application designed for managing sc
 ## How to Use
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/school-football-management.git
+   git clone https://github.com/DavldMA/School-Teams-Manager.git
    ```
 
 2. Compile the Java code using your preferred IDE or the terminal.
@@ -33,13 +33,3 @@ This Java-based project is a terminal-based application designed for managing sc
    ```
 
 4. Follow the on-screen instructions to navigate through the menu and manage players, trainers, and teams.
-
-## Contribution
-Contributions are welcome! If you have ideas for improvement or find any issues, please open an [issue](https://github.com/your-username/school-football-management/issues) or submit a [pull request](https://github.com/your-username/school-football-management/pulls).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it according to your project's specific details and requirements.
