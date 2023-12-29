@@ -33,3 +33,6 @@ This Java-based project is a terminal-based application designed for managing sc
    ```
 
 4. Follow the on-screen instructions to navigate through the menu and manage players, trainers, and teams.
+
+## Showcase
+in the future...
